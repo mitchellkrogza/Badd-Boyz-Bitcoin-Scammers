@@ -1,6 +1,6 @@
 # Badd-Boyz-Bitcoin-Scammers
 
-<img src="https://github.com/mitchellkrogza/Badd-Boyz-Bitcoin-Scammers/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Bitcoine Scammers"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
+<img src="https://github.com/mitchellkrogza/Badd-Boyz-Bitcoin-Scammers/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Bitcoin Scammers"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
 
 Brought to you by [Badd Boyz](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) and [Ultimate Hosts](https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist) 
 
